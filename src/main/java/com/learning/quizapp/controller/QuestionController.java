@@ -28,4 +28,14 @@ public class QuestionController {
     public String addQuestion(@RequestBody Question question) {
         return questionService.addQuestion(question);
     }
+
+    @DeleteMapping("delete/{id}")
+    public String deleteQuestion(@PathVariable Integer id) {
+        return questionService.deleteQuestion(id);
+    }
+
+    @PutMapping("update")
+    public String updateQuestion(@RequestBody Question question) {
+        return questionService.updateQuestion(question);
+    }
 }
