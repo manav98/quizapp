@@ -1,0 +1,8 @@
+"id","category","difficultylevel","option1","option2","option3","option4","question_title","right_answer"
+11,"Java","Medium","Bytecode is executed by JVM","The applet makes the Java code secure and portable","Use of exception handling","Dynamic binding between objects","Which of the following option leads to the portability and security of Java?","Bytecode is executed by JVM"
+12,"Java","Easy","Dynamic","Architecture Neutral","Use of pointers","Object-oriented","Which of the following is not a Java features?","Use of pointers"
+13,"Java","Easy","JVM","JRE","JDK","JDB","What is used to find and fix bugs in the Java programs","JDB"
+14,"Java","Easy","0","Not a Number","Infinity","Run time exception","What does the expression float a = 35 / 0 return?","Infinity"
+15,"Python","Easy","16","32","64","None of these above","What is the maximum possible length of an identifier?","None of these above"
+16,"Python","Easy","Zim Den","Guido van Rossum","Niene Stom","Wick van Rossum","Who developed the Python language?","Guido van Rossum"
+17,"Python","Easy","Zim Den","Guido van Rossum","Niene Stom","Wick van Rossum","Who developed the Python language?","Guido van Rossum"
